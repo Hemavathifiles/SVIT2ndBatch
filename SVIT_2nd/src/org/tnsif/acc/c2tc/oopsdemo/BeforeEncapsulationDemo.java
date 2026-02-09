@@ -1,4 +1,4 @@
-package oopsdemo;
+package org.tnsif.acc.c2tc.oopsdemo;
 
 class Human
 {
